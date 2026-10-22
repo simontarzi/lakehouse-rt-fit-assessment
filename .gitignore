@@ -1,0 +1,3 @@
+*.bak-*
+lakehouse_rt_confidence_score.py
+.DS_Store
